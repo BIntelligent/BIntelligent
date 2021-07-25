@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 ## My Activities
+  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=BIntelligent&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BIntelligent&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
 
-<a style="text-decoration: none;" href="https://youtube.com/UltraX1">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=KarimX32&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://youtube.com/UltraX1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimX32&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
